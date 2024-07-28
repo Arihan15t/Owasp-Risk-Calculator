@@ -1,1 +1,1 @@
-RISK-CALCULATOR using OWASP created by Arihant Upadhyaya
+RISK-CALCULATOR using OWASP created by Arihant Upadhyay
